@@ -1,4 +1,3 @@
 # AMSLT
 
-## Status
-WIP — code TBA.
+Code will be released soon (TBA).
